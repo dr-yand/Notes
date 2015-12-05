@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="navigation_drawer_open">Открыть</string>
+    <string name="navigation_drawer_close">Закрыть</string>
+
+    <string name="title_activity_login">Авторизация</string>
+    <string name="action_refresh">Синхронизировать</string>
+    <string name="error_login">Ошибка при входе</string>
+
+    <string name="please_wait">Пожалуйста подождите...</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="error_field_required">Заполните поле</string>
+</resources>
